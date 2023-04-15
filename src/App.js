@@ -14,7 +14,7 @@ import { Switch } from 'react-router-dom';
 
 
 
-
+// esto es un comentario
 const App = () => {
 
   const [characters, setItems] = useState([])
